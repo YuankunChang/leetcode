@@ -1,2 +1,2 @@
 # leetcode
-for leetcode questions
+for leetcode questions record
